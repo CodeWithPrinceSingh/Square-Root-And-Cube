@@ -1,0 +1,63 @@
+    *
+    {
+      margin: 0px;
+      padding: 0px;
+    }
+    #warpper
+    {
+      width: 100vw;
+     
+      
+    }
+    .container
+    {
+      width: 100vw;
+      display: flex;
+      justify-content: center;
+      margin-top: 10px;
+    }
+    input[type=number]
+    {
+      width: 60vw;
+      height: 4vh;
+      font-size: 4vw;
+      color: rgb(252, 21, 21);
+      background-color: rgb(224, 176, 216);
+     
+    }
+    input[type=radio]
+  {
+    
+    height: 30px;
+    width: 40px;
+  
+   
+      
+  }
+  h1
+    {
+       background-color: cyan;
+      color: fuchsia;
+      font-size: 5vw;
+    }
+  p
+{
+  width: 100vw;
+      height: 10px;
+      font-size: 20px;
+      color: rgb(21, 4, 97);
+      text-align: center;
+      margin-top: 10px;
+     
+      
+}
+    
+    #select
+    {
+      font-size: 30px;
+      color: magenta;
+      display: flex;
+      justify-content: center;
+      margin-top: 10px;
+      
+    }
